@@ -1,2 +1,7 @@
 # Exercitando as competências adquiridas em Python
- - Exercícios Python
+
+Versão:
+ - 3.6.1
+
+IDE:
+ - Pycharm
